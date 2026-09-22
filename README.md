@@ -1,4 +1,4 @@
-# Network Experience 2026–2027
+# Network Experience 2026–20278
 
 In **Network Experience** bouwt en beheert elke studentengroep een echte dienst voor de opleiding. Jullie werken niet in een wegwerplabo: de VM's draaien op de gedeelde Proxmox-productieomgeving, op node **Smith**. Daarom tellen technische kwaliteit, veiligheid, communicatie en overdraagbaarheid even zwaar als een geslaagde demo.
 
